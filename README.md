@@ -2,9 +2,6 @@
 <div align="center">
   <img width="80px" height="28px" src="https://res.infoq.com/news/2024/01/angular-17-new-branding/en/headerimage/header-1704652449727.jpg" alt="Angular"/>
   <img width="80px" height="28px" src="https://th.bing.com/th/id/R.d91224bab3891cb8e372b3d9e0b9b318?rik=AfAvwyhgcJMIkg&pid=ImgRaw&r=0" alt="Asp.net Core"/>
-  <img width="30px" height="28px" src="https://th.bing.com/th/id/OIP.ExZVs3L0ArLkpNcXKNi30QAAAA?pid=ImgDet&w=206&h=206&c=7&dpr=1.5" alt="Ant Design"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
 
 <div align="center">
