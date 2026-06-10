@@ -1,39 +1,31 @@
-<h2 align="center">🔧 Frameworks</h2>
+<h1 align="center">Hi 👋, I'm Kakada</h1>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://komarev.com/ghpvc/?username=KAKADACHHIM&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/KAKADACHHIM?style=social" alt="Followers"/>
 </p>
 
-<br />
+---
 
-<h2 align="center">💻 GitHub Stats</h2>
+### 🛠️ Tech Stack
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KAKADACHHIM&theme=github_dark" alt="Kakada's GitHub Stats" width="100%"/>
-    </td>   
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAKADACHHIM&theme=github_dark" alt="Kakada's Contribution Streak" width="100%"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- Add more technologies here -->
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KAKADACHHIM&theme=github_dark" alt="Kakada's General Stats" width="100%"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KAKADACHHIM&theme=github_dark&utcOffset=7" alt="Kakada's Productive Time" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KAKADACHHIM&theme=github_dark" alt="Kakada's Repos per Language" width="100%"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KAKADACHHIM&theme=github_dark" alt="Kakada's Most Committed Language" width="100%"/>
-    </td>
-  </tr>
-</table>
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KAKADACHHIM&show_icons=true&theme=github_dark&hide_border=true" width="49%" alt="Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAKADACHHIM&theme=github_dark&hide_border=true" width="49%" alt="Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAKADACHHIM&layout=compact&theme=github_dark&hide_border=true" width="49%" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KAKADACHHIM&theme=github_dark&no-frame=true&margin-w=15" width="49%" alt="Trophies"/>
+</div>
